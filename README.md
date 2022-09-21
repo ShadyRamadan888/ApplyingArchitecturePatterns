@@ -12,7 +12,8 @@ In main class:
 First, Creating the presenter class:
 - Getting data from database class.
 - Making the operation between two numbers.
-*In main class:
+
+In main class:
 - Getting the result from the presenter class.
 - Showing the result.
 ### MVVM Pattern to make multiplication process between two numbers.
@@ -20,7 +21,8 @@ In the class which extends from ViewModel class:
 - Using MutableLiveData.
 - Getting data from database class.
 - Making the operation between two numbers.
-*In main class:
+
+In main class:
 - Observe data.
 - Showing the result.
 
